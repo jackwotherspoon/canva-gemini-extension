@@ -10,6 +10,8 @@ Install the extension with a single command:
 gemini extensions install https://github.com/canva-sdks/canva-gemini-extension
 ```
 
+Once installed, run `gemini` to start Gemini CLI and `/mcp auth canva` to authenticate with Canva.
+
 ## What It Does
 
 **Design Creation & Management**
